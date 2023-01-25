@@ -36,7 +36,7 @@ squareroot(num1,iternum)
 
 ## Output:
 ![output](/Screenshot%20from%202023-01-10%2022-20-36.png)
-![gcd of two number](gcd.png)
+
 
 
 ## Result:
